@@ -1,0 +1,2 @@
+# CapstoneProject
+http://web.engr.oregonstate.edu/~carrilca/CapstoneProject/index.php -- This is a fun, interactive and educational web application for those who are passionate about the Cosmos and for those who want to learn more about it. The application makes a usage of the NASA Open API which gets extended by our application to not only viewing imagery from the space but also sharing it with family and friends via email or social media such as Facebook.
